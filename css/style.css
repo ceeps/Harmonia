@@ -58,6 +58,11 @@ body
 	font-size:24px;
 }
 
+.text li
+{
+	color:#2588c9;
+}
+
 #map
 {
 	width:950px;
